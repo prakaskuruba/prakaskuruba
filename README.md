@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm prakash Kuruba</h1>
+<h1 align="center">Hi 👋, I'm Prakash Kuruba</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [portfolio321.ccbp.tech](portfolio321.ccbp.tech)
+- 👨‍💻 All of my projects are available at [https://www.portfolio321.ccbp.tech](https://www.portfolio321.ccbp.tech)
 
 - 📫 How to reach me **prakashkuruba111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prakashkuruba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prakashkuruba/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/prakashkuruba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prakashkuruba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
